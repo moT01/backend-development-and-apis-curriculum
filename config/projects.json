@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "title": "Build a Timestamp Microservice",
+    "dashedName": "build-a-timestamp-microservice",
+    "isIntegrated": true,
+    "description": "Build a Timestamp Microservice",
+    "isPublic": true,
+    "currentLesson": 1,
+    "numberOfLessons": 1
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "files.exclude": {
+    ".devcontainer": true,
+    ".editorconfig": true,
+    ".freeCodeCamp": true,
+    ".github": true,
+    ".gitignore": true,
+    ".gitpod.Dockerfile": true,
+    ".gitpod.yml": true,
+    ".logs": true,
+    ".prettierignore": true,
+    ".prettierrc": true,
+    ".vscode": true,
+    ".git": true,
+    "bash": true,
+    "config": true,
+    "client": true,
+    "renovate.json": true,
+    "curriculum": true,
+    "Dockerfile": true,
+    "freecodecamp.conf.json": true,
+    "LICENSE": true,
+    "node_modules": true,
+    "package.json": true,
+    "package-lock.json": true,
+    "README.md": true,
+    "tooling": true,
+    "build-a-timestamp-microservice": true,
+    "js/ts.implicitProjectConfig.experimentalDecorators": true
+  },
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "bash",
+      "icon": "terminal-bash",
+      "args": ["--init-file", "./bash/sourcerer.sh"]
+    }
+  },
+  "workbench.colorTheme": "freeCodeCamp Dark Theme"
+}

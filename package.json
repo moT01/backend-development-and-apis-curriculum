@@ -1,0 +1,16 @@
+{
+  "name": "backend-development-and-apis-curriculum",
+  "version": "1.0.0",
+  "description": "Root package.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeCodeCamp/backend-development-and-apis-curriculum.git"
+  },
+  "author": "freeCodeCamp",
+  "type": "module",
+  "dependencies": {
+    "@freecodecamp/freecodecamp-os": "1.8.4",
+    "babeliser": "0.6.0",
+    "node-fetch": "^3.3.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "freeCodeCamp.freecodecamp-courses@1.7.4",
+        "freeCodeCamp.freecodecamp-dark-vscode-theme"
+      ]
+    }
+  },
+  "forwardPorts": [8080],
+  "workspaceFolder": "/workspace/backend-development-and-apis-curriculum",
+  "dockerFile": "../Dockerfile",
+  "context": ".."
+}
